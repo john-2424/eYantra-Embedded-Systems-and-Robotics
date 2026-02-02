@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DoxySettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SettingsFile>D:\eYantra\MOOCs\Embedded System's and Robotics\Week4_modules\Submission\line_follow_path_plan\line_follow_path_plan\doxySettings.xml</SettingsFile>
+  <ProjectName>line_follow_path_plan</ProjectName>
+  <DoxyExePath>C:\Program Files\doxygen\bin\doxygen.exe</DoxyExePath>
+  <UseDefaultSettings>false</UseDefaultSettings>
+  <GenerateAsPartOfBuild>false</GenerateAsPartOfBuild>
+  <ConfigFilePath>D:\eYantra\MOOCs\Embedded System's and Robotics\Week4_modules\Week4_Resources\dconfig</ConfigFilePath>
+  <OutputDirPath>D:\eYantra\MOOCs\Embedded System's and Robotics\Week4_modules\Submission\line_follow_path_plan\line_follow_path_plan</OutputDirPath>
+  <ShowErrorsAndWarnings>false</ShowErrorsAndWarnings>
+</DoxySettings>
